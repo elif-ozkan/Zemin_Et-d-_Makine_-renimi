@@ -6,9 +6,9 @@ Levit Sonuçları
 
 ![FOLD 5 LEVİT](https://github.com/elif-ozkan/Zemin_Etudu-_Makine_-Ogrenimi/assets/94003321/d7201669-487a-4a75-a28a-2dd007c16853)
 
+
 Vit Sonuçları
 ![image](https://github.com/elif-ozkan/Zemin_Etudu-_Makine_-Ogrenimi/assets/94003321/fe7d5b9e-f527-4e11-9ed4-7876fe6a9928)
-
 ![image](https://github.com/elif-ozkan/Zemin_Etudu-_Makine_-Ogrenimi/assets/94003321/6b10ff06-dd9d-4bc6-8b5d-af01563709ad)
 
 
