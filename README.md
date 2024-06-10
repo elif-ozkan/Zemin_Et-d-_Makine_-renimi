@@ -8,7 +8,7 @@ Levit Sonuçları
 
 
 Vit Sonuçları
-![image](https://github.com/elif-ozkan/Zemin_Etudu-_Makine_-Ogrenimi/assets/94003321/fe7d5b9e-f527-4e11-9ed4-7876fe6a9928)
+
 ![image](https://github.com/elif-ozkan/Zemin_Etudu-_Makine_-Ogrenimi/assets/94003321/6b10ff06-dd9d-4bc6-8b5d-af01563709ad)
 
 
