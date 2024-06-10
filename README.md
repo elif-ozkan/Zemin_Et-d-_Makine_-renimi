@@ -1,4 +1,4 @@
-Makine Öğrenimi ile Zemin Etüdü
+#Makine Öğrenimi ile Zemin Etüdü
 Google Colab ile Modelleme
 Google Colab ile öncelikle test ve train olarak ayırdığımız verileri Google Drive'a attığımız verileri Colab ile bağlantısını sağlıyoruz. Daha sonrasında modelleme kodlarımızı denemeye başlıyoruz
 
